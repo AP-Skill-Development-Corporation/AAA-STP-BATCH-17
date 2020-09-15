@@ -1,5 +1,3 @@
-# AAD-STP-BATCH-17
-
 # Android Application Development - Syllabus
 
 ### Introduction : 
