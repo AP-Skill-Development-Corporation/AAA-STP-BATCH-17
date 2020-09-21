@@ -19,3 +19,8 @@ Contextual menu creation and click the item to navigate the second Activity usin
 Sample Output:
 -------------
 ![Assignmentslogo](https://user-images.githubusercontent.com/51777024/93658867-19349380-fa5d-11ea-969c-ff92bd26b46f.png)
+
+
+
+*Task-3 On input components*
+* Check the Input Control Switch button state working or not
