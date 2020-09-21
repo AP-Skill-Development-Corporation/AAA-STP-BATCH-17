@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:drawable="@drawable/ic_green_android_24"
+    android:state_pressed="true"/>
+<item android:drawable="@drawable/ic_blue_android_24"
+    android:state_window_focused="true"/>
+<item android:drawable="@drawable/ic_black_android_24"/>
+</selector>
