@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    >
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+  <TextView
+      android:id="@+id/c_date"
+      android:textSize="25sp"
+      android:layout_margin="10dp"
+      android:textColor="#673AB7"
+      android:textStyle="bold|italic"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Date"/>
+    <TextView
+        android:id="@+id/c_name"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="#E91E63"
+        android:textStyle="bold|italic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CountryName"/>
+    <TextView
+        android:id="@+id/c_conform"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="#EB1717"
+        android:textStyle="bold|italic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirmed"/>
+    <TextView
+        android:id="@+id/s_deaths"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="#FF5722"
+        android:textStyle="bold|italic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Deaths"/>
+    <TextView
+        android:id="@+id/c_recover"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="#8BC34A"
+        android:textStyle="bold|italic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Recovered"/>
+    <TextView
+        android:id="@+id/c_active"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="#FFC107"
+        android:textStyle="bold|italic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Active"/>
+
+</LinearLayout>
+
+</layout>
